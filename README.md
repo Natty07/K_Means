@@ -1,0 +1,3 @@
+The file "K_Means" present in this folder gives a detailed view on implementing K-Means clustering algorithm manually from scratch. The Leave-One-Out Cross_Validation technique is followed here to evaluate its performance. Also the error vs K graph is plotted to find the optimal K value. It should be noted that K=1 will always result in the lowest error for obvious reasons, so it should not be treated as the optimal K-value and K=3 or K=5 are ideal values in most of the cases.
+
+Another file has evaluted the same via manual cross validation. This too confirms the ideal K-value.
